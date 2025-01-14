@@ -771,7 +771,7 @@
   </url>
   
   <url>
-    <loc>https://diaryabc.github.io/tags/buddhist/</loc>
+    <loc>https://diaryabc.github.io/tags/class/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -779,13 +779,6 @@
   
   <url>
     <loc>https://diaryabc.github.io/tags/log/</loc>
-    <lastmod>2025-01-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://diaryabc.github.io/tags/class/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -800,6 +793,13 @@
   
   <url>
     <loc>https://diaryabc.github.io/tags/modernity/</loc>
+    <lastmod>2025-01-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://diaryabc.github.io/tags/buddhist/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -834,14 +834,14 @@
   </url>
   
   <url>
-    <loc>https://diaryabc.github.io/tags/southwest/</loc>
+    <loc>https://diaryabc.github.io/tags/southeast/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://diaryabc.github.io/tags/southeast/</loc>
+    <loc>https://diaryabc.github.io/tags/southwest/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -890,14 +890,14 @@
   </url>
   
   <url>
-    <loc>https://diaryabc.github.io/tags/censorship/</loc>
+    <loc>https://diaryabc.github.io/tags/music/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://diaryabc.github.io/tags/music/</loc>
+    <loc>https://diaryabc.github.io/tags/censorship/</loc>
     <lastmod>2025-01-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
