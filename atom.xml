@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Diarist</title>
+  <title>Yan&#39;s Diary</title>
   <icon>https://diaryabc.github.io/icon.png</icon>
   
   <link href="https://diaryabc.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://diaryabc.github.io/</id>
   
   <author>
-    <name>Diarist</name>
+    <name>Yan</name>
     
   </author>
   
@@ -396,9 +396,9 @@
     
     <category term="prose" scheme="https://diaryabc.github.io/tags/prose/"/>
     
-    <category term="knowledge system" scheme="https://diaryabc.github.io/tags/knowledge-system/"/>
-    
     <category term="in English" scheme="https://diaryabc.github.io/tags/in-English/"/>
+    
+    <category term="knowledge system" scheme="https://diaryabc.github.io/tags/knowledge-system/"/>
     
   </entry>
   
